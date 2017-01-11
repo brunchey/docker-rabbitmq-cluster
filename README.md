@@ -62,3 +62,5 @@ Once cluster is up:
 # Credits
 
 * Inspired by https://github.com/bijukunjummen/docker-rabbitmq-cluster
+
+* Something to trigger the build
